@@ -1,6 +1,6 @@
 # Entrega 1 – Exploración de Datos
 
-## Integrantes del equipo
+## Integrante del equipo
 
 **Nombre completo:** Andrés Alberto Barbutín Díaz  
 
